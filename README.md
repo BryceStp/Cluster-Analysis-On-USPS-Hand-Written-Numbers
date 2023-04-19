@@ -1,1 +1,4 @@
-This is a project I did with a few classmates a while back on kmeans and clustering. This one is relatively short, but by this point we already knew exactly how to deal with this particular data set (we had already done several projects using this data set).  This is a usps dataset of handwritten numbers that have been grey scaled. The first column in the data.csv is the value of the digit it represents. Notice that each row is 256 pixels saved from left to right, top to bottom forming a 16x16 square. Each pixel has an intensity which ranges from -1 to 1, where 1 is the darkest.
+1. This is a relatively short project I did with a few classmates a while back on kmeans and clustering.   
+2. This is a usps dataset of handwritten numbers that have been grey scaled. 
+3. The first column in the csv is the value of the digit it represents. 
+4. Each row is 256 pixels saved from left to right, top to bottom forming a 16x16 square and each pixel has an intensity which ranges from -1 to 1, where 1 is the darkest.
